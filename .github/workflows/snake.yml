@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -24,6 +27,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+
+      - name: List output files (debug)
+        run: ls -l dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
