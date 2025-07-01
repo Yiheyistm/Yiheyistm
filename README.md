@@ -57,7 +57,7 @@
 </p>
 <p align="center">
   <!-- Skillicons.dev for colorful icons -->
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,go,git,figma,vscode,mongodb,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,nodejs,go,java,mongodb,js,html,css" />
 </p>
 <!-- (Tip: You can add or remove icons above as needed) -->
 
@@ -103,8 +103,6 @@
 | HCI Principles     | ███████████░░ 90% |
 
 ---
-
-### ✨ Featured Projects
 
 ### ✨ Featured Projects
 
