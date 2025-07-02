@@ -13,17 +13,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yiheyis-tamir">
+  <a href="https://linkedin.com/in/yiheyis-tamir-b56aa8300">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:yiheyis.tamir@gmail.com">
+  <a href="mailto:yiheyisyt23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://github.com/YiheyisTamir">
+  <a href="https://github.com/Yiheyistm">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://yiheyis-portfolio.vercel.app/">
+   ➥ Portfolio
+  </a>
+</p>
 ---
 
 <p align="center">
@@ -171,9 +176,9 @@ Expected Graduation: 2026
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:yiheyis.tamir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yiheyis-tamir"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/YiheyisTamir"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
+  <a href="mailto:yiheyisyt23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yiheyis-tamir-b56aa8300"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/Yiheyistm"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" /></a>
 </p>
 
 ---
