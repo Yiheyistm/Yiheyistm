@@ -31,7 +31,7 @@
   <a href="https://github.com/Yiheyistm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://yiheyis-portfolio.vercel.app/" target="_blank">
+  <a href="https://yiheyis-tamir.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -233,7 +233,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://github.com/Yiheyistm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://yiheyis-portfolio.vercel.app/">
+  <a href="https://yiheyis-tamir.tech">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
